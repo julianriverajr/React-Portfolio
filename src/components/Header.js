@@ -1,9 +1,12 @@
 import React from "react";
 import "./pages/style.css";
 
-function NavTabs(props) {
+function Header(props) {
   return (
     <ul className="nav nav-tabs">
+      <li id="myName">
+        Julian Rivera Jr.
+      </li>
       <li className="nav-item">
         <a
           href="#aboutme"
@@ -35,4 +38,4 @@ function NavTabs(props) {
   );
 }
 
-export default NavTabs;
+export default Header;

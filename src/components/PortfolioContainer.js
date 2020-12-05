@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import NavTabs from "./NavTabs";
+import Header from "./Header";
 import Home from "./pages/Home";
 import Portf from "./pages/Portf";
 import Contact from "./pages/Contact";
@@ -27,7 +27,7 @@ class Portfolio extends Component {
   render() {
     return (
       <div>
-        <NavTabs
+        <Header
           currentPage={this.state.currentPage}
           handlePageChange={this.handlePageChange}
         />

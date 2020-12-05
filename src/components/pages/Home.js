@@ -22,7 +22,7 @@ const Home = () => (
                             I enjoy learning, I enjoy reading, and I enjoy doing nothing, too.
                             I'm learning to code at the Coding BootCamp at UT Austin.
                             I look forward to continuing my learning to become a Full Stack Web Developer.
-                            I'm nearly there, only about a month left, then I'll be certified.
+                            I'm nearly there, only a few days left in the boot camp.
                         </p>
                         <a target="_blank" href="https://drive.google.com/file/d/1Xvio1fshe1eeOOO_t_OzbLIjFcUB7QQP/view?usp=sharing">My resume</a>
                     </div>

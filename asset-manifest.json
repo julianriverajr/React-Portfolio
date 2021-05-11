@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/julianriverajr.github.io/React-Portfolio/static/css/main.e78122ab.chunk.css",
+    "main.js": "/julianriverajr.github.io/React-Portfolio/static/js/main.168405ac.chunk.js",
+    "main.js.map": "/julianriverajr.github.io/React-Portfolio/static/js/main.168405ac.chunk.js.map",
+    "runtime-main.js": "/julianriverajr.github.io/React-Portfolio/static/js/runtime-main.9acbd7a7.js",
+    "runtime-main.js.map": "/julianriverajr.github.io/React-Portfolio/static/js/runtime-main.9acbd7a7.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/julianriverajr.github.io/React-Portfolio/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.449829d2.chunk.js": "/julianriverajr.github.io/React-Portfolio/static/js/2.449829d2.chunk.js",
+    "static/js/2.449829d2.chunk.js.map": "/julianriverajr.github.io/React-Portfolio/static/js/2.449829d2.chunk.js.map",
+    "index.html": "/julianriverajr.github.io/React-Portfolio/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/julianriverajr.github.io/React-Portfolio/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.e78122ab.chunk.css.map": "/julianriverajr.github.io/React-Portfolio/static/css/main.e78122ab.chunk.css.map",
+    "static/js/2.449829d2.chunk.js.LICENSE.txt": "/julianriverajr.github.io/React-Portfolio/static/js/2.449829d2.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/julianriverajr.github.io/React-Portfolio/static/media/jakub-sofranko-RoYujmHrdxA-unsplash.db2e0647.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9acbd7a7.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.449829d2.chunk.js",
+    "static/css/main.e78122ab.chunk.css",
+    "static/js/main.168405ac.chunk.js"
+  ]
+}

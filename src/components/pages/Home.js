@@ -14,7 +14,7 @@ const Home = () => (
                 </div>
                 <div className="row">
                     <div className="col-sm-12">
-                        <img id="myFace" alt="me" src="https://media-exp1.licdn.com/dms/image/C4D03AQFHe7-y4AAmkg/profile-displayphoto-shrink_400_400/0/1602219508047?e=1612396800&v=beta&t=xH6MCSgiGWmTE7VJKYS3c8J63t0G_xPkQopJbQ4MIhI" /> 
+                        <img id="myFace" alt="me" src="./selfWed.jpeg" /> 
                         <p>
                             I am a bag of meat and bone. 
                         </p>

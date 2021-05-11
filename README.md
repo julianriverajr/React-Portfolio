@@ -3,7 +3,7 @@
 
 ## Description 
 
-This is my React Portfolio, a portfolio created with react. It is just one page, which changes depending on what you click. I'm told that is the essence of React apps.
+This is my React Portfolio, a portfolio created with react. It is just one page, which changes depending on what you click. 
 
 
 ## Table of Contents
